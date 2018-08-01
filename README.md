@@ -1,5 +1,22 @@
+## ARLine
 
-# public project profile
+__Try to play__
+
+Coming soon
+
+__Description__
+
+Unity AR application for Android and iOS based on [Vuforia](https://www.vuforia.com/).
+It's cloud-based application for showing some Media (Image, Video, etc ) on your markers.
+
+__Role in project__
+
+- Client app developer
+- UI-animator
+
+__Screenshots__
+
+![ARLine](./data/arline/s1.jpg)
 
 ## Fruit Ninja - like game
 
