@@ -26,7 +26,7 @@ __Screenshots__
 
 __Description__
 
-WebGL mobile-frendly game on [ThreeJS](http://threejs.org). App used [PIXI.JS](http://pixijs.com) for playing Adobe Animate animations via PIXI-Animate library in 3D surface. Game include more that 10 pixi-animate animations and has performance on middle devices.
+WebGL mobile-friendly game on [ThreeJS](http://threejs.org). App used [PIXI.JS](http://pixijs.com) for playing Adobe Animate animations via PIXI-Animate library in 3D surface. Game include more that 10 pixi-animate animations and has performance on middle devices.
 
 __Role in project__
 
