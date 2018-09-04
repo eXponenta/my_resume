@@ -2,6 +2,29 @@
 
 Sorry, but some project was be marked as _secure by NDA_ because i can't advertise its.
 
+## PyDash
+
+__Try to Play__
+
+Look repo [PyDash](https://github.com/eXponenta/pyDash)
+
+__Description__
+
+Alpha version of application dashboard for game console. Current version only for 3x4 aspect ratio devices with RCA video input, such as CRT TV. 
+
+__Role in project__
+
+- App developer
+- UI-animator
+
+__Status__
+
+Work in progress.
+
+__Screenshots__
+
+![PyDash](./data/pydash/pydash.jpg)
+
 ## ARLine
 
 __Try to play__
