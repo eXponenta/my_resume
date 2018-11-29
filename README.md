@@ -65,7 +65,7 @@ __Screenshots__
 
 __Try to play__ 
 
-[Fruit Ninja Game](http://iexpo.tk/fruit)
+[Fruit Ninja Game](https://exponenta.github.io/html5fruit/)
 
 __Description__
 
